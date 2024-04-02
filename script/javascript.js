@@ -1,4 +1,4 @@
- function doLogin(event){
+ function doLogin(event) {
   var username = document.getElementbyId("username").value;
   var psw = document.getElementbyId("password").value;
   if(username == "" || psw == ""){
